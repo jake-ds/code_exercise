@@ -10,11 +10,7 @@ coding test 준비를 위한 문제풀이
 
 
 
-- 알고리즘 자주 틀리는 요인
-
-https://www.acmicpc.net/blog/view/70
+- 알고리즘 자주 틀리는 요인 : https://www.acmicpc.net/blog/view/70
 
 
-- 소스 공유 
-
-https://colorscripter.com/
+- 소스 공유 : https://colorscripter.com/
